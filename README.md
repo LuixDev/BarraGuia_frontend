@@ -30,6 +30,9 @@ npm install
 ```sh
 npm run dev
 ```
+### Ruta adicional
+
+https://barra-guia-frontend.vercel.app/inicio
 
 ### Compile and Minify for Production
 
