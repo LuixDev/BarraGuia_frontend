@@ -39,3 +39,6 @@ https://barra-guia-frontend.vercel.app/inicio
 ```sh
 npm run build
 ```
+### additional route
+
+https://barra-guia-frontend.vercel.app/Inicio
